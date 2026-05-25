@@ -12,6 +12,7 @@ The project includes:
 - Business Insights
 - Interactive Dashboard using Streamlit
 
+---
 
 # 📂 Dataset
 Dataset Used:
@@ -20,6 +21,7 @@ Dataset Used:
 Dataset Source:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
+---
 
 # 🛠️ Technologies Used
 - Python
@@ -30,6 +32,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Streamlit
 - Jupyter Notebook
 
+---
 
 # 📊 Project Workflow
 
@@ -52,6 +55,7 @@ Created different charts and graphs for better understanding of business perform
 ## 4. Dashboard Creation
 Developed an interactive dashboard using Streamlit.
 
+---
 
 # 📈 Key Insights
 - Sales fluctuate across different months
@@ -59,6 +63,7 @@ Developed an interactive dashboard using Streamlit.
 - Some categories have high sales but low profit margins
 - Region-wise analysis helps identify high-performing areas
 
+---
 
 # 🚀 Dashboard
 To run the dashboard locally:
@@ -66,6 +71,8 @@ To run the dashboard locally:
 ```bash
 python -m streamlit run app.py
 ```
+
+---
 
 # 📁 Project Structure
 
@@ -78,6 +85,8 @@ synent-task5-salesanalysis-yug/
 ├── README.md
 ├── requirements.txt
 
+---
+
 # 🎯 Conclusion
 This project helped in understanding:
 - Data preprocessing
@@ -85,6 +94,8 @@ This project helped in understanding:
 - Business analysis
 - Dashboard development
 - Insight generation using Python
+
+---
 
 # 👨‍💻 Author
 Yug Bhungaliya
