@@ -76,6 +76,7 @@ python -m streamlit run app.py
 
 # 📁 Project Structure
 
+```text
 synent-task5-salesanalysis-yug/
 │
 ├── dataset/
@@ -84,6 +85,7 @@ synent-task5-salesanalysis-yug/
 ├── app.py
 ├── README.md
 ├── requirements.txt
+```
 
 ---
 
